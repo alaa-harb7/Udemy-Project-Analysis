@@ -34,5 +34,5 @@ The project uses the **Udemy course dataset**, which contains the following fiel
 - **Most Popular Courses**: A bar plot to highlight the top-rated courses based on the number of students.
 
 ## 🔗 Links
-- **Kaggle Notebook**: https://www.kaggle.com/code/alaaharb7/udemy-project-analysis
-- **Repository**: [https://github.com/yourusername/Udemy-Project-Analysis](https://github.com/alaa-harb7/Udemy-Project-Analysis)
+- **Kaggle Notebook**: [Notebook Link](https://www.kaggle.com/code/alaaharb7/udemy-project-analysis)
+- **Repository**: [Github Repository](https://github.com/alaa-harb7/Udemy-Project-Analysis)
